@@ -4,7 +4,7 @@
 
 ## Installation
 
-    $ wget https://raw.githubusercontent.com/pwnjas/proxychecker/main/proxychecker.js; npm i checker-proxy; node proxychecker.js 
+    $ wget https://raw.githubusercontent.com/pwnjas/proxychecker/main/proxychecker.js; npm i checker-proxy request path; node proxychecker.js 
     
 # How to use it ?
 
