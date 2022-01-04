@@ -1,6 +1,6 @@
 ## Proxy-checker
 
-    Proxy-checker in Node.js @ made by Jas the 23/12/2021 finished the 24/12/2021.
+    Proxy-checker in Node.js @ made by Jas the 23/12/2021 finished the 24/12/2021 (updated the 04/01/2022).
 
 ## Installation
 
@@ -9,9 +9,9 @@
 # How to use it ?
 
     Usage:
-          node proxychecker.js [PROXY LIST TO FILTERING] [TYPE OF PROXY (SOCKS4, HTTP, HTTPS)] [OUTPUT FILE]
+          node proxychecker.js [PROXY LIST TO FILTERING] [TYPE OF PROXY (SOCKS4, HTTP, HTTPS)] [OUTPUT FILE] [TIMEOUT (in ms)]
     Example: 
-          node proxychecker.js proxynofilter.txt http proxys.txt
+          node proxychecker.js proxynofilter.txt http proxys.txt 1
 
 ![image](https://user-images.githubusercontent.com/77278137/147364222-a82220bb-d848-4a19-99ed-9a3d5e0703e7.png)
 
