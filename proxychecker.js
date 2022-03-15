@@ -1,4 +1,4 @@
-/**** This script was made by Jas [ 24/12/2021 :: 18:12 PM ] ****/
+/**** This script was made by Rawsilver (Saatoum) [ 24/12/2021 :: 18:12 PM ] ****/
 
 const proxycheck = require('checker-proxy');
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
